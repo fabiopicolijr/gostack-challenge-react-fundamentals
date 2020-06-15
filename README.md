@@ -18,19 +18,19 @@
 
 ---
 
-## :running: Steps
+## :running: &nbsp;&nbsp;Steps
 ```bash
   # Install dependencies
   yarn install
 
   # Start application
-  yarn dev
+  yarn start
 ```
 <br />
 
 ---
 
-## :memo: License
+## :memo: &nbsp;&nbsp;License
 
 MIT License. See the file [LICENSE](LICENSE.md) for more details.
 <br />
@@ -38,4 +38,4 @@ MIT License. See the file [LICENSE](LICENSE.md) for more details.
 
 ---
 
-Developed :sparkles: by @fabiopicolijr :point_right: [See my linkedin](http://www.linkedin.com/in/fabiopicolijr).
+Developed :sparkles: &nbsp;&nbsp;by @fabiopicolijr &nbsp;&nbsp;:point_right: [See my linkedin](http://www.linkedin.com/in/fabiopicolijr).
