@@ -38,4 +38,4 @@ MIT License. See the file [LICENSE](LICENSE.md) for more details.
 
 ---
 
-Developed :sparkles: &nbsp;&nbsp;by @fabiopicolijr &nbsp;&nbsp;:point_right: [See my linkedin](http://www.linkedin.com/in/fabiopicolijr).
+Developed :sparkles: by @fabiopicolijr &nbsp;&nbsp;:point_right: [See my linkedin](http://www.linkedin.com/in/fabiopicolijr).
