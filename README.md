@@ -21,7 +21,7 @@
 ## :running: &nbsp;&nbsp;Steps
 ```bash
   # Install dependencies
-  yarn install
+  yarn
 
   # Start application
   yarn start
