@@ -74,7 +74,7 @@ const Dashboard: React.FC = () => {
           </Card>
           <Card>
             <header>
-              <p>Saídas</p>
+              <p>Sa&iacute;das</p>
               <img src={outcome} alt="Outcome" />
             </header>
             <h1 data-testid="balance-outcome">{balance.outcome}</h1>
@@ -92,8 +92,8 @@ const Dashboard: React.FC = () => {
           <table>
             <thead>
               <tr>
-                <th>Título</th>
-                <th>Preço</th>
+                <th>T&iacute;tulo</th>
+                <th>Pre&ccedil;o</th>
                 <th>Categoria</th>
                 <th>Data</th>
               </tr>
